@@ -1,1 +1,5 @@
 # vimrc
+
+# vim-fugative
+
+
